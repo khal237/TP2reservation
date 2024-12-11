@@ -9,5 +9,4 @@ private:
    int _month;
    int _day;
 };
-#endif // DATE_H
-#endif
+#endif 
